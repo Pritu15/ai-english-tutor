@@ -1,1 +1,8 @@
+# Dependencies
+Backend/node_modules/
+
+# Environment variables
+Backend/.env
+
+# Lock files
 Backend/package-lock.json
